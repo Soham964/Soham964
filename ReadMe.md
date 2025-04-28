@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on developing models using ML & DL<br>👯 I’m looking to collaborate on projects<br>🌱 I’m currently learning about Deep Learning and Generative AI<br>
+🔭 Third Year student with specialization in Django | Django-RestFramework and AIML frameworks🌱<br>
 
 
 ## 🌐 Socials:
