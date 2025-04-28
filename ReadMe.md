@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Third Year student with specialization in Django | Django-RestFramework and AIML frameworks🌱<br>
+🔭 Third Year student with specialization in Django | Django-RestFramework and AIML frameworks | Strong grasp in JAVA & Python🌱<br>
 
 
 ## 🌐 Socials:
