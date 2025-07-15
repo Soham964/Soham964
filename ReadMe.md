@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Third Year student with specialization in Django | Django-RestFramework and AIML frameworks | Strong grasp in JAVA & Python🌱<br>
+🔭 Cloud-savvy DevOps intern & Java-app craftsman from India. I build robust Java desktop apps, streamline CI/CD pipelines, and deploy scalable cloud setup-all.<br>
 
 
 ## 🌐 Socials:
