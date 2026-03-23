@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Cloud-savvy DevOps intern & Java-app craftsman from India. I build robust Java desktop apps, streamline CI/CD pipelines, and deploy scalable cloud setup-all.<br>
+🔭 Tech-savvy craftsman from India. I build robust Java full-stack applications and scalable cloud architectures, while integrating LLMs and agentic AI system.<br>
 
 
 ## 🌐 Socials:
