@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Tech-savvy craftsman from India. I build robust Java full-stack applications and scalable cloud architectures, while integrating LLMs and agentic AI system.<br>
+🔭 Tech-savvy craftsman from India. I build robust full-stack applications and scalable cloud architectures, while integrating LLMs and agentic AI system.<br>
 
 
 ## 🌐 Socials:
